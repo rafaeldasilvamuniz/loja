@@ -166,7 +166,7 @@ h3 {
 }
 
 @media screen and (min-width:641px) and (max-width: 1023px) {
-	.area-principal .area-lateral .conteudo-lateral .postagem-lateral{
+	.area-principal .area-lateral .conteudo-lateral .postagem-lateral .area-postagens{
 		max-width: 82%;
 		display: block;
 	}
@@ -174,14 +174,14 @@ h3 {
 }
 
 @media screen and (max-width: 640px) {
-	.area-principal .area-lateral .conteudo-lateral .postagem-lateral{
+	.area-principal .area-lateral .conteudo-lateral .postagem-lateral .area-postagens{
 		max-width: 82%;
 		display: block;
 	}
 }
 
 @media screen and (min-width:1024px) {
-	.area-principal .area-lateral .conteudo-lateral .postagem-lateral{
+	.area-principal .area-lateral .conteudo-lateral .postagem-lateral .area-postagens{
 		max-width: 82%;
 		display: block;
 	}

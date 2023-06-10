@@ -8,8 +8,6 @@ $(document).ready(function(){
         e.preventDefault();
         adicionaLinha();
         atualizaTabela();
-        $('#risca').on('click', function(e){
-            $('li').css('text-decoration','line-through');
          })
     
     })
